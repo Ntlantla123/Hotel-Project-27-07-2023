@@ -1,0 +1,13 @@
+.bg-image {
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(/images/fb-img-1493231953088.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100vw;
+}
+ a {
+    background-color: transparent;
+    color: white;
+ }
